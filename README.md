@@ -2,7 +2,7 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Jorge Pino</h1>
   <p>
-    I'm a passionate Full Stack Software Developer with over 3 years of experience in creating dynamic, user-centric web applications. 
+    I'm a passionate Full Stack Software Developer with over 5 years of experience in creating dynamic, user-centric web applications. 
     My expertise spans across the full development lifecycle, from front-end design to back-end functionality, always aiming to deliver scalable and efficient solutions. 
     I enjoy collaborating in agile teams and continuously seek to enhance my skillset by embracing modern tools and technologies.
   </p>
